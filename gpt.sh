@@ -6,7 +6,7 @@ echo "  / /_/ / ____/ / /"
 echo "  \____/_/     /_/"
 echo "  "                                      
 
-API_KEY="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"
+API_KEY="sk-"
 
 while true; do
   echo ""
